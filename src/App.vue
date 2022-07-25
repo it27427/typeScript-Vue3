@@ -32,9 +32,6 @@ export default defineComponent({
     }
 
     return { jobs, handleClick, order }
-  },
-  methods: {
-    
   }
 });
 </script>
